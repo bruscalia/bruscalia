@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome, visitor!
+
+I'm a Chemical Engineer passionate about numerical optimization and operations research who has been focused on solving large-scale supply chain problems.
+
+Here you might find some interesting tutorials and packages focused on numerical optimization and/or numerical methods (I'm still somehow a Chemical Engineer).
 
 <!--
 **bruscalia/bruscalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
